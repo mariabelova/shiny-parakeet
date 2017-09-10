@@ -1,2 +1,0 @@
-# shiny-parakeet
-Hard work
